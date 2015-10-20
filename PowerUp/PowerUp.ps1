@@ -183,10 +183,10 @@ function Invoke-ServiceUserAdd {
         $ServiceName,
 
         [string]
-        $UserName = "john",
+        $UserName = "dswx",
 
         [string]
-        $Password = "Password123!",
+        $Password = "DSWX!!!123",
 
         [string]
         $GroupName = "Administrators",
@@ -463,10 +463,10 @@ function Write-UserAddServiceBinary {
         $Path = "service.exe",
 
         [string]
-        $UserName = "john",
+        $UserName = "dswx",
 
         [string]
-        $Password = "Password123!",
+        $Password = "DSWX!!!123",
 
         [string]
         $GroupName = "Administrators"
@@ -666,10 +666,10 @@ function Write-ServiceEXE {
         $ServiceName,
 
         [string]
-        $UserName = "john",
+        $UserName = "dswx",
 
         [string]
-        $Password = "Password123!",
+        $Password = "DSWX!!!123",
 
         [string]
         $GroupName = "Administrators"
